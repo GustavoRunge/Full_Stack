@@ -1,0 +1,248 @@
+.tabela{
+    border-style: solid;
+    border-color:blue;
+    margin: 10px;
+    padding: 20px;
+    width: 1090;
+    height: 200px;
+    text-align: center;
+    background-color:bisque ;
+    color:darkgreen;
+    font-size:50pt;
+    z-index: 2;
+    
+    
+}
+
+.c{
+    position: absolute;
+    top: 30px;
+    left:10px;
+    display:block;
+    z-index: 3;
+
+}
+
+.java{
+position: absolute;
+top: 30px;
+left:1300px;
+display:block;
+z-index: 3;
+}
+
+.home{
+    position: absolute;
+    left: 500px;
+
+
+}
+
+.livros{
+    position:absolute;
+    left: 580px;
+}
+
+
+.videos{
+    position: absolute;
+    left: 680px;
+}
+
+.contatos{
+    position: absolute;
+    left:770px;
+}
+
+
+
+.css{
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    padding-left: 10px;
+}
+
+.img1{
+    padding: 140px;
+    position: absolute;
+    top: 700px;
+    left: 200px;
+}
+
+
+
+
+.img2{
+    padding: 140px;
+    position: absolute;
+    top: 700px;
+    left: 440px
+
+}
+
+.img3{
+    padding: 140px;
+    position: absolute;
+    top: 700px;
+    left: 720px;
+}
+  
+   
+
+
+
+body{
+    background-color: lightgray;
+}
+
+
+#h2{
+    text-align: center;
+}
+
+#texto1{
+    font-size: 20pt;
+    font-family: sans-serif;
+    color:indigo;
+}
+
+#texto2{
+    font-size: 20pt;
+    font-family: sans-serif;
+    color:indigo;
+}
+
+#texto3{
+    font-size: 20pt;
+    font-family: sans-serif;
+    color:indigo;
+}
+
+.int{
+    display: block;
+    background-color: lightskyblue;
+    height: 20px;
+    margin: 30px;
+    color:darkred;
+    border:10px;
+    position:relative;
+    text-align:center;
+    
+
+
+}
+
+#introducao{
+
+    text-align: center;
+}
+
+
+.iframe1 {
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    display: block;
+    padding-left: 80px;
+    margin: 0px;
+    border: 0px;
+    margin-bottom: 70px;
+    top: 1300px;
+
+}
+
+.iframe2{
+height: 400px;
+width: 400px;
+position: absolute;
+display: block;
+padding-left: 80px;
+margin: 0px;
+border: 0px;
+margin-bottom: 70px;
+top: 1300px;
+left: 700px;
+}
+
+.aprenda{
+    position: absolute;  
+    top: 1200px;
+    text-align: center;
+    left:500px
+}
+
+table{
+    position:absolute;
+    top: 1800px;
+    border-style:dashed;
+    border-color:red;
+    left:500px;
+   
+}
+
+th{
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+    border-width: 3px;
+}
+
+td{
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+    border-width: 3px;
+}
+
+#contato{
+    position:absolute;
+    top:1750px;
+    left:650px;
+}
+
+.sites{
+
+
+    height: 150px;
+    width: 400px;
+    position:absolute;
+    top:2000px;
+    left:500px;
+    text-align: center;
+    background-color:yellow ;
+    color: darkred;
+    font-size:13pt;
+    z-index: 2;
+    display: block;
+
+}
+
+.rodape{
+    position: absolute;
+    top: 2200px;
+    height: 150px;
+    width: 100%;
+    background-color: bisque;
+    text-align: center;
+    font-family:'Gill Sans MT';
+    text-align:center;
+    font-size: 15pt;
+    position: absolute;
+    z-index: 2;
+
+}
+
+.HTML{
+    position: absolute;
+    top: 2220px;
+    left:10px;
+    z-index: 3;
+}
+
+.css2{
+    position: absolute;
+    top: 2220px;
+    left:1420px;
+    z-index: 3;
+}
